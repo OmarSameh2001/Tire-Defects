@@ -16,7 +16,7 @@ Tire-Defects/train.py
 ### Test
 Tire-Defects/test.py
 ## Training results
-(Epochs = 5)
+### (Epochs = 5)
 ![results](https://github.com/OmarSameh2001/Tire-Defects/assets/120422966/f3945b93-fb6f-4c55-9e5a-d64dae8ab534)
 
 # Hosted API
