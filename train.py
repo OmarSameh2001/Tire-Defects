@@ -1,5 +1,4 @@
 #install ultralytics in terminal (!pip install ultralytics)
-
 from ultralytics import YOLO
 
 
