@@ -1,7 +1,6 @@
 # Tire-Defects
 A Deep Learning model leveraging the YOLOv8 neural network architecture with pre-trained weights from the COCO dataset. This model is designed to classify tires into two categories: 'Good Tires' and 'Defected Tires.' Using real-time classification.
-![val_batch2_pred](https://github.com/OmarSameh2001/Tire-Defects/assets/120422966/d98ac0fb-04f1-4766-9c85-26233ff39321)
-![val_batch2_labels](https://github.com/OmarSameh2001/Tire-Defects/assets/120422966/2628bfaa-6006-42d5-ba6c-037d5cc356d7)
+![val_batch2_pred](https://github.com/OmarSameh2001/Tire-Defects/assets/120422966/c8712737-30d5-4b87-a262-93276d754183)![val_batch1_pred](https://github.com/OmarSameh2001/Tire-Defects/assets/120422966/ccdec6c6-acbb-4d50-aa9a-ba90a23e1e24)
 (Images tested from wide validation dataset)
 ## Overview
 ### Requirments
